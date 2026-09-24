@@ -701,6 +701,7 @@ AWVS钓鱼
 * [Shodan手册](https://b404.gitbooks.io/shodan-manual/) - 中文
 * [Shodan手册](https://community.turgensec.com/shodan-pentesting-guide) dorks
 * [Web应用安全测试前期情报收集方法与工具的介绍](http://www.freebuf.com/sectool/174417.html)
+* [KeyDrift](https://keydrift.dev) - Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
 
 
 #### 靶场
